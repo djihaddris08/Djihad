@@ -5,17 +5,17 @@
 استخدم هذا القسم لإخبار الأشخاص عن إصدارات مشروعك
 يتم دعمها حاليًا مع تحديثات الأمان.
 
-| الإصدار | Supported          |
+| أيد |  الإصدار
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## الإبلاغ عن الضعف
 
-Use this section to tell people how to report a vulnerability.
+استخدم هذا القسم لإطلاع الناس على كيفية الإبلاغ عن مشكلة عدم الحصانة.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+أخبرهم إلى أين يذهبون ، وعدد مرات توقعهم للحصول على تحديث على
+تم الإبلاغ عن الضعف ، ما يمكن توقعه إذا تم قبول مشكلة عدم الحصانة أو
+تم رفضه ، إلخ.
